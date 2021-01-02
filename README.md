@@ -1,9 +1,11 @@
-# KolibriOS Developer Edition
-### Description
+# KolibriOS Developer Edition/E
+### Description/Что это?
 KolibriDev is a fork of the official version Kolibri OS, created to prove that development in the OS itself is possible!
-### Differences from the official
 
-**Added:**
+Kolibri OS DE/E - экспериментальная сборка КолибриОС, предназначенная для обкатки изменений и нововведений в ядро/систему; также сборка заточена на программирование для КолибриОС.
+### Differences from the official/Отличия от ночной сборки
+
+**Added/добавлено:**
 
 - FasmX(console version Fasm)
 - kosjs(in developing)
@@ -20,16 +22,16 @@ KolibriDev is a fork of the official version Kolibri OS, created to prove that d
 - FreePascal
 - TinyPython 
 - Header files for fasm libraries
-- New wallpapers and icons
+- New wallpapers and icons/Новые иконки и обои!
 
-**Removed:**
+**Removed/Вырезаны:**
 
-- All demos and games
-- Some emulators
+- All demos and games/все демки и игры
+- Some emulators/эмуляторы
 - fNav - file manager
-- Unnecessary skins
+- Unnecessary skins/ненужные скины
 
-### Building and getting
+### Building and getting/Получение исходников и сборка; будет переведено позже ;)
 
 **Getting:** 
 You can get the finished ISO image on the [releases page](https://github.com/turbocat2001/KolibriDev/releases)
